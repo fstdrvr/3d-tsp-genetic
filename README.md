@@ -4,4 +4,4 @@ An independent project created as an assignment for CSCI 561 at the University o
 
 Scored 100/100 for grading.
 
-Needs additional code to call the problem solver to tun.
+Needs additional code to call the problem solver to run.
